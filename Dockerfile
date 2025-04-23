@@ -1,6 +1,6 @@
 FROM alpine:3.20.3@sha256:beefdbd8a1da6d2915566fde36db9db0b524eb737fc57cd1367effd16dc0d06d
 
-LABEL repository="https://github.com/is-cool-me/dnscontrol-action"
+LABEL repository="https://github.com/thomasahaf/dnscontrol-action"
 LABEL maintainer="light <admin@lighthosting.eu.org>"
 
 LABEL "com.github.actions.name"="DNSControl"
