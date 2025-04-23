@@ -8,7 +8,7 @@ LABEL "com.github.actions.description"="Deploy your DNS configuration to multipl
 LABEL "com.github.actions.icon"="cloud"
 LABEL "com.github.actions.color"="yellow"
 
-ENV DNSCONTROL_VERSION="4.13.0"
+ENV DNSCONTROL_VERSION="4.18.0"
 ENV DNSCONTROL_CHECKSUM="103fe932785bbfef47bc798e815a2ee88057be9b0f9aff696373a4ab3accfe10"
 ENV USER=dnscontrol-user
 
